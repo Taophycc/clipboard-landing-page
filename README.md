@@ -1,4 +1,4 @@
-# Frontend Mentor - Clipboard landing page solution
+![image](https://github.com/user-attachments/assets/e9dd2fa3-b951-47f2-b82a-124c6163130a)# Frontend Mentor - Clipboard landing page solution
 
 This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+!(![Uploading image.png…]
 
 ### Links
 
