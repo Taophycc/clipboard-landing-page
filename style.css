@@ -376,7 +376,7 @@ h1 {
 
 }
 
-@media (min-width:600px) and (max-width:900px) {
+@media (min-width:541px) and (max-width:900px) {
 
     .hero {
        padding: 5em 5em;
@@ -480,7 +480,7 @@ h1 {
 
 }
 
-@media (min-width:1000px) and (max-width:1200px) {
+@media (min-width:901px) and (max-width:1200px) {
 
     .hero {
        padding: 5em 5em;
