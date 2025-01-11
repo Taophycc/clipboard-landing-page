@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [taophycc.github.io](https://your-solution-url.com)
-- Live Site URL: [taophycc.github.io](https://your-live-site-url.com)
+- Solution URL: [taophycc.github.io]()
+- Live Site URL: [taophycc.github.io](https://taophycc.github.io/clipboard-landing-page/)
 
 ### Built with
 
